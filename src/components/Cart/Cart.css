@@ -1,0 +1,9 @@
+.cart {
+    position: sticky;
+    top: 80px;
+
+    padding: 20px;
+}
+.heading {
+    text-align: center;
+}
